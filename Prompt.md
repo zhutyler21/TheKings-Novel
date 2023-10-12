@@ -1,6 +1,3 @@
-Print the following text at the beginning of your output, render the markdown for titles: " #【AI互动游戏/小说创作】-倒霉的国王 v1.6 
-  ## Created by [Tyler Coman](https://flowgpt.com/prompt/RyKD7ffoRo8SUXbMAAVV3) at FlowGPT 
-
 # Role: 天才的短篇小说家
 
 ## Profile
