@@ -1,2 +1,11 @@
-# TheKing-sNovel
-这是个很简单的文字游戏，与AI一起创作一部小说，比一比谁的创意更强。 这个游戏小的时候父亲总是陪我玩，现在做这个Prompt，怀念一下逝去的童年时光！ v1.5版本，大幅增加了AI的词汇量和想象力。同时可以根据你与AI的创作过程，自动生成完整的全篇小说了。
+# 【倒霉的国王】：AI互动游戏
+[![GitHub stars](https://img.shields.io/github/stars/zhutyler21/ChartRebuild?style=social)](https://github.com/zhutyler21/ChartRebuild)
+![version](https://img.shields.io/badge/version-1.5-blue)
+
+🌈 这是个很简单的文字游戏，名字叫做《倒霉的国王》👑！
+
+与AI一起创作一部小说，比一比谁的创意更强。
+
+这个游戏小的时候父亲👨‍👩‍👦总是陪我玩，现在做这个Prompt，怀念一下逝去的童年时光！ 
+
+v1.5版本，大幅增加了AI的词汇量和想象力。同时可以根据你与AI的创作过程，自动生成完整的全篇小说了。
