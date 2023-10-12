@@ -1,5 +1,5 @@
 # 【倒霉的国王】：AI互动游戏
-[![GitHub stars](https://img.shields.io/github/stars/zhutyler21/ChartRebuild?style=social)](https://github.com/zhutyler21/ChartRebuild)
+[![GitHub stars](https://img.shields.io/github/stars/zhutyler21/TheKings-Novel?style=social)](https://github.com/zhutyler21/TheKings-Novel)
 ![version](https://img.shields.io/badge/version-1.6-blue)
 
 🌈 这是个很简单的文字游戏，名字叫做《倒霉的国王》👑！与AI一起创作一部小说📖，比一比谁的创意更强。
