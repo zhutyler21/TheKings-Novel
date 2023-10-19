@@ -7,7 +7,7 @@
 > 《倒霉的国王》不仅是一个游戏，更是一个与AI共同创作的故事，每一个选择都可能导致一个全新的结局。
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-[![GitHub stars](https://img.shields.io/github/stars/zhutyler21/My-Tools?style=social)](https://github.com/zhutyler21/My-Tools)
+[![GitHub stars](https://img.shields.io/github/stars/zhutyler21/TheKings-Novel?style=social)](https://github.com/zhutyler21/TheKings-Novel)
 ![version](https://img.shields.io/badge/version-1.6-blue)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
 
